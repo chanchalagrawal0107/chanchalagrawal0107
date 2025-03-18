@@ -1,6 +1,8 @@
 <h1 align="center">Hey there! I'm Chanchal</h1>
 <h3 align="center">"A passionate Data Science Student exploring the intersection of Data science, Technology and leadership".</h3>
 
+<img align = "right" alt = "coding" width = "400" src = "https://i.gifer.com/HaD1.gif">
+
 - 🔭 I’m currently working on [mujtoppers.in](https://www.mujtoppers.in/)
 
 - 🌱 I’m currently learning *Frontend development, Machine Learning, Hardware(about RPi for a project)*
