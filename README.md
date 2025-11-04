@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [mujtoppers.in](https://www.mujtoppers.in/)
 
-- 🌱 I’m currently learning *Frontend development, Machine Learning, Hardware(about RPi for a project)*
+- 🌱 I’m currently learning *DSA in Java, Deep Learning*
 
-- 💬 Ask me about *Java and Data Structures and Algorithms*
+- 💬 Ask me about *Java, Machine Learning, Full-Stack Web Development.*
 
 - 📫 How to reach me *agrawalchanchal2005@gmail.com*
 
