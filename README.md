@@ -9,7 +9,7 @@ I enjoy solving problems using data structures and building practical, real-worl
 ---
 
 ### 🚀 Current Focus
-- 🔭 Working on <a href="https://www.mujtoppers.in/" target="_blank">mujtoppers.in</a>  
+- 🔭 Managing Director of <a href="https://www.mujtoppers.in/" target="_blank">mujtoppers.in</a>  
 - 🌱 Learning **Data Structures & Algorithms (Java)** and **Deep Learning**
 - 💬 Ask me about **Java, Machine Learning, Full-Stack Development, and DSA**
 - 📫 Reach me at **agrawalchanchal2005@gmail.com**
