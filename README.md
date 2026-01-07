@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Chanchal</h1>
-<h3 align="center">"A passionate Data Science Student exploring the intersection of Data science, Technology and leadership".</h3>
+<h3 align="center">"A passionate Data Science Student exploring the intersection of AI, Data science and Technology".</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://i.gifer.com/HaD1.gif">
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning *DSA in Java, Deep Learning*
 
-- 💬 Ask me about *Java, Machine Learning, Full-Stack Web Development.*
+- 💬 Ask me about *Java, Machine Learning, Full-Stack Web Development, Data Structures.*
 
 - 📫 How to reach me *agrawalchanchal2005@gmail.com*
 
